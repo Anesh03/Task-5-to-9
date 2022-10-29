@@ -29,7 +29,7 @@ class lab5
    System.out.println("Enter password");
    password=in.next();
    if(username.equals("aneshrathore@gmail.com")&&password.equals("212121212"))
-   System.out.println("Login Success\n Anesh Rathore here:");
+   System.out.println("Login Success\n University of sindh:");
    break;
      case 2:
    System.out.println(" Your Password is \n 212121212");
