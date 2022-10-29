@@ -13,7 +13,7 @@ class lab5
    password=in.next();
    if(username.equals("aneahrathore1@gmail.com")&&password.equals("212121212"))
    {
-   System.out.println("Login Success \n Anesh Rathore here:");}
+   System.out.println("Login Success \n welcome to university of sindh:");}
    else {
    System.out.println("Login Failed!!!");
    System.out.println("        ");
@@ -38,7 +38,7 @@ class lab5
    System.out.println("Enter password");
    password=in.next();
    if(username.equals("aneshrathore@gmail.com")&&password.equals("212121212"))
-   System.out.println("Login Success\n Anesh Rathore here:");
+   System.out.println("Login Success\n welcome to university of Sindh:");
    break;
     case 3:
    System.out.println("Your Password is \n 212121212\nYour Email is \n aneshrathore1@gmail.com: ");
@@ -47,7 +47,7 @@ class lab5
    System.out.println("Enter password");
    password=in.next();
    if(username.equals("aneshrathore1@gmail.com")&&password.equals("212121212"))
-   System.out.println("Login Success \n Wellcome to Rishta website:");
+   System.out.println("Login Success \n Wellcome to University of sindh:");
    break;
    
    default:
